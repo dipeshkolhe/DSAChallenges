@@ -1,2 +1,2 @@
 # DSAChallenges
-This repo contains my solutions as well as best solutions from around to Data Structure and Algorithms challenges
+This repo contains my solutions as well as best case solutions to Data Structure and Algorithms challenges
